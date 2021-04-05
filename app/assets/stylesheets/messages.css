@@ -108,27 +108,27 @@
   margin-bottom: 40px;
 }
 
-.main_foot {
+.form {
   background-color: #DDDDDD;
   height: 90px;
   padding: 20px 40px;
   display: flex;
 }
 
-.form_input {
+.form-input {
   background-color: white;
   width: 100%;
   display: flex;
 }
 
-.form_message {
+.form-message {
   height: 50px;
   padding-left: 10px;
   width: 100%;
   border: none;
 }
 
-.form_btn {
+.form-submit {
   height: 50px;
   color: white;
   background-color: #38AEF0;
@@ -138,7 +138,7 @@
   padding: 0 20px;
 }
 
-.form_image {
+.form-image {
   font-size: 12px;
   background-color: lightblue;
   color: white;
