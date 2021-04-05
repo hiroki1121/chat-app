@@ -24,17 +24,18 @@
 }
 
 .create-room a {
-  margin: 14px;
+  padding: 14px;
   font-size: 10px;
   color: deepskyblue;
   border: 1px solid lightblue;
   text-decoration: none;
 }
 
-.side_main {
+.rooms {
   height: calc(100vh - 100px);
   background-color: #2f3e51;
   padding: 0 20px;
+  overflow: scroll;
 }
 
 .room {
